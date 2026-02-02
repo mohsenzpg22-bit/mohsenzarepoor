@@ -19,3 +19,5 @@ vless://e1de729f-0e62-4a22-9537-1098709da61d@89.47.198.22:8080?path=%2Fabc%3Fed%
 vless://6faa20b2-318f-4a8f-b7f8-e93c1f72e688@nv272.momdping.com:443?security=tls&encryption=none&type=ws#radargoriz%F0%9F%9A%80vip4
 vless://78ccb4a9-ce7b-472e-8194-bf60821e9542@fin1.ariagsm.site:1412?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#radargoriz%F0%9F%9A%80vip5
 vless://7449519c-e462-46e4-a143-519996d16d9b@python.org:80?mode=auto&path=%2F%3Fed%3D2052&security=none&encryption=none&host=waslima.openwrld.tk&type=xhttp#radargoriz%F0%9F%9A%80vip6
+vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=%2Fcategory%2Fmusic&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#radargoriz%F0%9F%9A%8013
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#radargoriz%F0%9F%9A%8014
