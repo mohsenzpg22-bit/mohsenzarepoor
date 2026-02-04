@@ -23,3 +23,4 @@ vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=%2F
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#radargoriz%F0%9F%9A%8014
 vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?path=%2F&security=none&encryption=none&host=fdsgszd.global.ssl.fastly.net&type=ws#radargorize%F0%9F%9A%80vip7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8316#radargorize%F0%9F%9A%80vip8
+vless://9983b901-28a8-4dcf-a8b9-8304bc6dc804@85.133.161.168:2086?path=%2Fv2%2Fstream%2Fturk&security=none&encryption=none&host=anten.ir&type=ws#radargorize%F0%9F%9A%80vip9
