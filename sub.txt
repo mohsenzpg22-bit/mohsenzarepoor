@@ -1,1 +1,1 @@
-
+trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@cloudflare.9jy.cc:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=mohsenzpq3.mohsenzpq3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohsenzpq3.mohsenzpq3.workers.dev#%D9%85%DB%8C%D9%85%D9%88%D9%86
