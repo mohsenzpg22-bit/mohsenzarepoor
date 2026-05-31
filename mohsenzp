@@ -9,7 +9,8 @@ trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@2.144.23.159:40443?path=%2F%3Fed%3
 trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@2.144.21.112:40443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=mohsenzpq3.mohsenzpq3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohsenzpq3.mohsenzpq3.workers.dev#9
 trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@2.144.4.229:40443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=mohsenzpq3.mohsenzpq3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohsenzpq3.mohsenzpq3.workers.dev#10
 trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@2.144.4.56:40443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=mohsenzpq3.mohsenzpq3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohsenzpq3.mohsenzpq3.workers.dev#11
-vless://23d5c572-1667-42bf-b31d-2a0f0bb534db@172.64.49.206:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mohsenzpq3.mohsenzpq3.workers.dev&type=ws#12
+vless://23d5c572-1667-42bf-b31d-2a0f0bb534db@172.64.49.206:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=mohsenzpq3.mohsenzpq3.workers.dev&type=ws#12
+trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@209.94.90.1:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&host=mohsenzpq3.mohsenzpq3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mohsenzpq3.mohsenzpq3.workers.dev#13
 trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@173.245.59.19:80?path=%2F%3Fed%3D2048&security=none&host=mohsenzpq3.mohsenzpq3.workers.dev&type=ws#%E7%94%B5%E4%BF%A1-SIN-12
 trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@104.26.1.116:80?path=%2F%3Fed%3D2048&security=none&host=mohsenzpq3.mohsenzpq3.workers.dev&type=ws#%E7%A7%BB%E5%8A%A8-SEA-12
 trojan://23d5c572-1667-42bf-b31d-2a0f0bb534db@198.41.222.188:80?path=%2F%3Fed%3D2048&security=none&host=mohsenzpq3.mohsenzpq3.workers.dev&type=ws#%E8%81%94%E9%80%9A-LAX-14
