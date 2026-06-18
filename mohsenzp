@@ -9,3 +9,6 @@ vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=%2F&securi
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20240%20-%20US%20-%20VLESS%2FWS%2FTLS%20-%20443
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=08000000#%F0%9F%87%BA%F0%9F%87%B8%20271%20-%20US%20-%20VLESS%2FREALITY%2FPBK%2FSID%2FVISION%2FUTLS%20-%20443
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=%2F%3Fed&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20387%20-%20US%20-%20VLESS%2FWS%20-%2080
+vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade#t1
+trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#t2
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@pl-tor.pvdata.host:1080#t3
